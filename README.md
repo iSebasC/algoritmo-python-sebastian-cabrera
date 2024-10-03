@@ -22,6 +22,6 @@ Este programa lee un archivo de texto con URLs y realiza las siguientes tareas:
 2. **Corre el script** usando el siguiente comando en la terminal:
 
    ```bash
-   python nombre_del_script.py
+   python algoritmo.py
 2. **Ver el resultado** El programa mostrará cuantas URLs cumplen los criterios y luego listará esas URLs.
 
